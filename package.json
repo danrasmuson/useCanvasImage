@@ -20,9 +20,6 @@
     "url": "https://github.com/notthatnathan/useCanvasImage/issues"
   },
   "homepage": "https://github.com/notthatnathan/useCanvasImage#readme",
-  "peerDependencies": {
-    "react": "^16.6.0 || ^17"
-  },
   "devDependencies": {
     "microbundle": "^0.15.0"
   },
